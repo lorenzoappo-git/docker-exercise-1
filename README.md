@@ -1,14 +1,15 @@
-# boilerplate-repo
-Boilerplate generic starter repo
+# Docker Troubleshooting
+
+The Docker app hello-world when deployed is unhealthy!  Troubleshoot and implement to a healthy deployment.
+
+![app-status](unhealth-app.png)
+
+Instructions
+- Fork this repository
+- Build and Run the microservice locally, Assess, identify and resolve the problem with the app
+- Create a pull request against the upsteam repository with the fix
+
 
 # Local Development
-- [Poetry](https://python-poetry.org/)
-- Python3
-
-# Heroku
-https://devcenter.heroku.com/articles/build-docker-images-heroku-yml
-```
-heroku create --manifest
-heroku stack:set container
-git push heroku master
-```
+- [Docker](https://docs.docker.com/engine/install/)
+- [curl](https://help.ubidots.com/en/articles/2165289-learn-how-to-install-run-curl-on-windows-macosx-linux)
