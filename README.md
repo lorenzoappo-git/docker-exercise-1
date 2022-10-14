@@ -7,7 +7,7 @@ The Docker app hello-world when deployed is unhealthy!  Troubleshoot and impleme
 Instructions
 - Fork this repository
 - Build and Run the microservice locally, Assess, identify and resolve the problem with the app
-- Create a pull request against the upsteam repository with the fix
+- Send `e@mechanicode.io` your repository link
 
 
 # Local Development
